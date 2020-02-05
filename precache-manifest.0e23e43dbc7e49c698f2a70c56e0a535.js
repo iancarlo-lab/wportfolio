@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4505d3fa678eca3207a47a1b364daa7b",
+    "revision": "d1d08f8f7a6298de2ee25c66778623aa",
     "url": "/wportfolio/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/wportfolio/static/css/2.e842310e.chunk.css"
   },
   {
-    "revision": "a3fe50e4c94ccad38656",
-    "url": "/wportfolio/static/css/main.0dfb9427.chunk.css"
+    "revision": "7f4643f074637bdb6863",
+    "url": "/wportfolio/static/css/main.28c27ee7.chunk.css"
   },
   {
     "revision": "359e09360e7bd55d3d9f",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/wportfolio/static/js/2.ca31e2d7.chunk.js.LICENSE"
   },
   {
-    "revision": "a3fe50e4c94ccad38656",
-    "url": "/wportfolio/static/js/main.3edc7553.chunk.js"
+    "revision": "7f4643f074637bdb6863",
+    "url": "/wportfolio/static/js/main.42248ecf.chunk.js"
   },
   {
     "revision": "f855117fdc2560ee786f",
@@ -52,12 +52,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/wportfolio/static/media/contact2.c0a78605.jpg"
   },
   {
+    "revision": "d4c36c956dc1296b20694913a8ab5f33",
+    "url": "/wportfolio/static/media/desktop.d4c36c95.jpeg"
+  },
+  {
     "revision": "271d52bbceb48af42fe2dda7cd5568c3",
     "url": "/wportfolio/static/media/desktop2.271d52bb.jpeg"
   },
   {
     "revision": "07e7b6087aa8d8b7eca99102d7c6da95",
     "url": "/wportfolio/static/media/drum.07e7b608.PNG"
+  },
+  {
+    "revision": "41d203c9f861ec7dc38976ca9a312aa8",
+    "url": "/wportfolio/static/media/extracker.41d203c9.PNG"
+  },
+  {
+    "revision": "f147f48736c3ba6a28bce748dbbf1125",
+    "url": "/wportfolio/static/media/fileupload.f147f487.PNG"
   },
   {
     "revision": "a5688c136eab3c2f0bf950d3f4a9d048",
@@ -74,10 +86,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "fc859b8b4048854864598d9b7cc7a320",
     "url": "/wportfolio/static/media/pomodoro.fc859b8b.PNG"
-  },
-  {
-    "revision": "0c0b6061f6170c7ec6aa742185052511",
-    "url": "/wportfolio/static/media/quote.0c0b6061.jpeg"
   },
   {
     "revision": "80dbd78d34f8d204351729406f672f19",
