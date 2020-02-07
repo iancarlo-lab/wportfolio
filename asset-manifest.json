@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/wportfolio/static/css/main.c37ae7f5.chunk.css",
-    "main.js": "/wportfolio/static/js/main.c84a55ba.chunk.js",
-    "main.js.map": "/wportfolio/static/js/main.c84a55ba.chunk.js.map",
+    "main.css": "/wportfolio/static/css/main.ded6e1e3.chunk.css",
+    "main.js": "/wportfolio/static/js/main.496c66e8.chunk.js",
+    "main.js.map": "/wportfolio/static/js/main.496c66e8.chunk.js.map",
     "runtime-main.js": "/wportfolio/static/js/runtime-main.573e7ecd.js",
     "runtime-main.js.map": "/wportfolio/static/js/runtime-main.573e7ecd.js.map",
     "static/css/2.e842310e.chunk.css": "/wportfolio/static/css/2.e842310e.chunk.css",
     "static/js/2.ca31e2d7.chunk.js": "/wportfolio/static/js/2.ca31e2d7.chunk.js",
     "static/js/2.ca31e2d7.chunk.js.map": "/wportfolio/static/js/2.ca31e2d7.chunk.js.map",
     "index.html": "/wportfolio/index.html",
-    "precache-manifest.c7315f06ca320f32bd3879f06b04f550.js": "/wportfolio/precache-manifest.c7315f06ca320f32bd3879f06b04f550.js",
+    "precache-manifest.0bf5e592a8e7c7c3c6ea742f8a8e5a20.js": "/wportfolio/precache-manifest.0bf5e592a8e7c7c3c6ea742f8a8e5a20.js",
     "service-worker.js": "/wportfolio/service-worker.js",
     "static/css/2.e842310e.chunk.css.map": "/wportfolio/static/css/2.e842310e.chunk.css.map",
-    "static/css/main.c37ae7f5.chunk.css.map": "/wportfolio/static/css/main.c37ae7f5.chunk.css.map",
+    "static/css/main.ded6e1e3.chunk.css.map": "/wportfolio/static/css/main.ded6e1e3.chunk.css.map",
     "static/js/2.ca31e2d7.chunk.js.LICENSE": "/wportfolio/static/js/2.ca31e2d7.chunk.js.LICENSE",
+    "static/media/App.css": "/wportfolio/static/media/threemap.28953bef.PNG",
     "static/media/artificial.jpg": "/wportfolio/static/media/artificial.6522b008.jpg",
     "static/media/astro.png": "/wportfolio/static/media/astro.f3727845.png",
-    "static/media/App.css": "/wportfolio/static/media/threemap.28953bef.PNG",
     "static/media/code2.jpeg": "/wportfolio/static/media/code2.fa9c9ff5.jpeg",
     "static/media/contact2.jpg": "/wportfolio/static/media/contact2.c0a78605.jpg",
     "static/media/robot.jpg": "/wportfolio/static/media/robot.40e5365f.jpg"
@@ -25,7 +25,7 @@
     "static/js/runtime-main.573e7ecd.js",
     "static/css/2.e842310e.chunk.css",
     "static/js/2.ca31e2d7.chunk.js",
-    "static/css/main.c37ae7f5.chunk.css",
-    "static/js/main.c84a55ba.chunk.js"
+    "static/css/main.ded6e1e3.chunk.css",
+    "static/js/main.496c66e8.chunk.js"
   ]
 }
